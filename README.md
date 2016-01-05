@@ -2,7 +2,7 @@
 
 ![HelloWorld in KappaLang](http://i.imgur.com/xlJvQJn.png)
 
-Prints "Hello, World!" (yes, the interpreter takes the image, not the text representation)
+Prints "Hello, World!" (yes, the interpreter reads the image, not the text representation)
 
 ## Seriously?  You're reading this?
 
