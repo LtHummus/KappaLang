@@ -2,6 +2,8 @@
 
 ![HelloWorld in KappaLang](http://i.imgur.com/xlJvQJn.png)
 
+Prints "Hello, World!"
+
 ## Seriously?  You're reading this?
 
 Why are you here?  This is a dumb project.  It's basically the language [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) but with [Twitch](http://twitch.tv) emotes.  Why was this a good idea?  Why did I stay up so late writing this?  Two reasons:  1) more Scala practice, and 2) it's funny.  Well, point 2 isn't exactly true, this is more dumb than funny, but it was cool to try something with image recognition (which I knew basically nothing about going in to this project).  But hey it works (more or less), so that's kind of cool.  
