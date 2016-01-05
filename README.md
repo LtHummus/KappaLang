@@ -37,6 +37,7 @@ Lots.  The code is in a pretty early state, and while it works, it's fairly frag
 ## Special Thanks
 
 * [aforgottentune](https://twitter.com/aforgottentune) -- For listening to me ramble about this
+* Jeff Galper -- for putting up with my dumb Scala questions
 * kohdrak -- for making fun of me only a little bit when I told him about this project
 * [texelot](https://twitter.com/jpeddicord) -- for making fun of me a lot when I told him about this project
 * [Twitch.tv](http://twitch.tv) -- For not suing me
