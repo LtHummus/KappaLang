@@ -1,4 +1,4 @@
-package com.lthummus.kappalang.translator
+package com.lthummus.kappalang
 
 import java.awt.image.BufferedImage
 import java.io.File
