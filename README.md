@@ -2,7 +2,7 @@
 
 ![HelloWorld in KappaLang](http://i.imgur.com/xlJvQJn.png)
 
-Prints "Hello, World!"
+Prints "Hello, World!" (yes, the interpreter takes the image, not the text representation)
 
 ## Seriously?  You're reading this?
 
@@ -14,14 +14,15 @@ This language is essentially Brainfuck with the following translations:
 
 | Brainfuck Symbol | Twitch Emote |
 |------------------|--------------|
-|+|Kappa|
-|-|BibleThump|
-|<|RitzMitz|
-|>|FrankerZ|
-|.|KAPOW|
-|,|NotLikeThis|
-|\[|riPepperoni|
-|]|twitchRaid|
+|+|![Kappa](http://i.imgur.com/nGhCNyd.png)|
+|-|![BibleThump](http://i.imgur.com/PqZUXr6.png)|
+|<|![RitzMitz](http://i.imgur.com/7qAp0od.png)|
+|>|![FrankerZ](http://i.imgur.com/cormtsO.png)|
+|.|![KAPOW](http://i.imgur.com/ZFhkK7W.png)|
+|,|![NotLikeThis](http://i.imgur.com/OHEKmuU.png)|
+|\[|![riPepperoni](http://i.imgur.com/z9w9l0I.png)|
+|]|![twitchRaid](http://i.imgur.com/pFidsIR.png)|
+|NOP| ![NOP](http://i.imgur.com/gW0lEXn.png) |
 
 Each symbol is 40x30 pixels.  Code is read left-to-right, then top-to-bottom.  If you don't want to go through the pain of actually making your own images (because it's kind of a pain), I've included a small app that takes in a Brainfuck string (among other things) and builds a valid image out of it.
 
